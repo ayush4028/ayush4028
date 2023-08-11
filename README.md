@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayush Singh</h1>
-<h3 align="center">A passionate MERN Stack Developer from India. I love to sleep and code. I am a procastinator.</h3>
+<h3 align="center">A passionate MERN Stack Developer from India. I love to code. I am a wanderlust.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush4028" alt="ayush4028" /></a> </p>
 
-- 🔭 I’m currently working on **Mumbai Tour**
+- 🔭 I’m currently working on **RazorPay Website Clone (Frontend)**
 
 - 🌱 I’m currently learning **React, MongoDB, C++, Data Structure and Algorithms**
 
